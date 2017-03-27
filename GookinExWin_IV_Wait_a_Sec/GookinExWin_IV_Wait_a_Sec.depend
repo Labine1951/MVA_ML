@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490625819 source:c:\users\public\documents\codeblocksprograms\gookinexwin\gookinexwin_iv_wait_a_sec\main.c
+	<stdio.h>
+	<time.h>
+
