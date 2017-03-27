@@ -1,13 +1,14 @@
 
-ÉTAPES POUR AJOUTER AU PROJET
+Ã‰TAPES POUR AJOUTER AU PROJET
+(crÃ©Ã© sur la branche 1  )
 
-1)  créé une Branche * * * 
+1)  crÃ©Ã© une Branche * * * 
  
-2) continuer à progresser sur CETTE branche
+2) continuer Ã  progresser sur CETTE branche
 
 3) estimer les modifications
 
-4) COMMIT pour concrétiser les changements: la branche EXISTE officiellement
+4) COMMIT pour concrÃ©tiser les changements: la branche EXISTE officiellement
 
 5) la branche demeure ACTIVE et AUTONOME tant qu'il n'y a pas eu de MERGE sur MASTER
 
