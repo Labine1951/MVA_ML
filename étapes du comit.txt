@@ -12,4 +12,4 @@
 
 5) la branche demeure ACTIVE et AUTONOME tant qu'il n'y a pas eu de MERGE sur MASTER
 
-6)
+6) Cette remarque vient du SITE WEB  $ $ $ $ 
