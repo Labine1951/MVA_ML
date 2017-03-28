@@ -1,4 +1,4 @@
-
+﻿
 ÉTAPES POUR AJOUTER AU PROJET
 (créé sur la branche 1  ) * * * 
 
@@ -13,3 +13,5 @@
 5) la branche demeure ACTIVE et AUTONOME tant qu'il n'y a pas eu de MERGE sur MASTER
 
 6) Cette remarque vient du SITE WEB  $ $ $ $ 
+
+7) ET celle-ci vient de l'application GitHub windows sur G6
