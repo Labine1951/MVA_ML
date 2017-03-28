@@ -1,0 +1,7 @@
+
+
+GitHub (window) échange les fichiers entre MON répertoire ICI (sur cet ordi) ET
+le "repository" en ligne.
+
+Dans les **deux** directions
+
