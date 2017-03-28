@@ -1,7 +1,9 @@
 
 
-GitHub (window) échange les fichiers entre MON répertoire ICI (sur cet ordi) ET
+GitHub (window) Ã©change les fichiers entre MON rÃ©pertoire ICI (sur cet ordi) ET
 le "repository" en ligne.
 
 Dans les **deux** directions
+
+celle-ci vers windows
 
